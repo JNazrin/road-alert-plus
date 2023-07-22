@@ -11,5 +11,3 @@ Key Features:
 2. Add Hazard: As a community-driven platform, RoadAlert+ allows users to actively contribute to the safety of others. With the "Add Hazard" feature, you can report road hazards or dangerous conditions directly through the app. Whether it's a pothole, debris on the road, construction zones, or any other potential risks, your input helps fellow drivers stay aware and avoid potential dangers.
   
 3. User-Friendly Interface: RoadAlert+ boasts an intuitive and user-friendly interface, making it easy for anyone to use. Whether you're a tech-savvy individual or someone who prefers simplicity, the app is designed to be accessible to all.
-
-![welcome](https://github.com/JohanNazrin310/road-alert-plus/assets/84758910/2da55653-d5e3-45ca-8d28-0fbb180fd079)
