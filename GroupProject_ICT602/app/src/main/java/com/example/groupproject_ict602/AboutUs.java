@@ -22,7 +22,7 @@ public class AboutUs extends AppCompatActivity {
             public void onClick(View v) {
                 // This code will be executed when the button is clicked.
                 // Create an Intent to open a web browser with the Google website URL.
-                String url = "https://github.com/johannazrin310/road-alert-plus";
+                String url = "https://github.com/JNazrin/road-alert-plus";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
                 startActivity(intent);
             }
