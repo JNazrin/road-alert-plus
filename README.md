@@ -1,2 +1,2 @@
-# road-alert-plus
+# RoadAlert+
 This is a my first mobile development project.
