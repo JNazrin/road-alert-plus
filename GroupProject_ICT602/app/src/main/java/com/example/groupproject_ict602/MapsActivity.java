@@ -37,7 +37,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     private ActivityMapsBinding binding;
-    private String URL = "http://192.168.50.24/maklumat/json.php";
+    private String URL = "https://api.syhrzkwn.dev/maklumat/json.php";
 
     MarkerOptions marker;
     LatLng centerLocation;

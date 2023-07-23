@@ -22,7 +22,7 @@ public class AddHazard extends AppCompatActivity {
 
     EditText etName, etType, etLocation, etDesc, etLat, etLng;
     RequestQueue queue;
-    final String URL = "http://192.168.50.24/maklumat/api2.php";
+    final String URL = "https://api.syhrzkwn.dev/maklumat/api2.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

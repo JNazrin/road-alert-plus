@@ -37,7 +37,7 @@ public class HazardInfo extends AppCompatActivity {
         adapter = new DataAdapter(this, maklumats);
         listView.setAdapter(adapter);
 
-        String url = "http://192.168.50.24/maklumat/json.php";
+        String url = "https://api.syhrzkwn.dev/maklumat/json.php";
         JsonArrayRequest request = new JsonArrayRequest(
                 Request.Method.GET,
                 url,
